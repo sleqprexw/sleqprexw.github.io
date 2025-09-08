@@ -1,12 +1,12 @@
 <!doctype html>
 <html>
- <head>
-   <meta charset="utf-8">
-   <title>Hello</title>
- </head>
- <body>
+  <head>
+    <meta charset="utf-8">
+    <title>Hello</title>
+  </head>
+  <body>
 
- Hello world!
+  Hello world!
 
- </body>
+  </body>
 </html>
