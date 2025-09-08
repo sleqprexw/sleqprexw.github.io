@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Моя личная страничка/title>
+    <title>Моя личная страничка</title>
   </head>
   <body>
     <left><h1>Анна Слесарева</h1></left>
