@@ -6,7 +6,7 @@
   </head>
   <body>
     <left><h1>Анна Слесарева</h1></left>
-    <left> alt="Это я" width="15%" src="me.jpg"></left>
+    <left> alt="Это я" width="15%" src="me.jpg"</left>
     <br/>
     <h2>Контакты:</h2>
     Страничка <a href=https://vk.com/sleqprexw/>vkontakte</a>
